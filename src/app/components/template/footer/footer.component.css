@@ -3,4 +3,6 @@
     position: fixed;
     bottom: 0;
     font-size: 1rem;
+    height: 5%;
+    background-color: dimgrey;
 }
